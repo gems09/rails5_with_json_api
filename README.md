@@ -1,11 +1,6 @@
 ## README
 
-* Ruby version
-This application requires Ruby v2.2 and above
-
-* Database creation
-rake db:create
-rake db:migrate
+* This application requires Ruby v2.2 and above
 
 * A few commands to test JSON API responses:
 
