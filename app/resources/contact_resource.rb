@@ -1,6 +1,6 @@
 class ContactResource < JSONAPI::Resource
 
-  attributes :name, :phone_number
+  attributes :name, :mobile, :address, :email
   has_one :user
 
 end
